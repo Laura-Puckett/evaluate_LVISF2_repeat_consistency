@@ -1,0 +1,101 @@
+Linking to GEOS 3.8.1, GDAL 3.0.4, PROJ 6.1.0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'seriation':
+  method         from 
+  reorder.hclust gclus
+
+Attaching package: ‘raster’
+
+The following object is masked from ‘package:dplyr’:
+
+    select
+
+rgdal: version: 1.4-8, (SVN revision 845)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 3.0.4, released 2020/01/28
+ Path to GDAL shared files: 
+ GDAL binary built with GEOS: FALSE 
+ Loaded PROJ.4 runtime: Rel. 6.1.0, May 15th, 2019, [PJ_VERSION: 610]
+ Path to PROJ.4 shared files: (autodetected)
+ Linking to sp version: 1.4-1 
+[1] "distance threshold: 1m"
+[1] "file1: /projects/above_gedi/share/lidar/LVIS/ABoVE_2017/ABLVIS2_001/0_orig/LVIS2_ABoVE2017_0706_R1803_062982.TXT"
+[1] "file2: /projects/above_gedi/users/lpuckett/Rainbow2/LVISF2_ABoVE_2019/0_orig/LVISF2_ABoVE2019_0801_R2003_088389.TXT"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "overlap extentextent(528245.768736831, 533444.300778614, 7120315.11877741, 7124967.10136842)"
+[1] 1
+projected points
+Object initially classed as: wkbPoint
+Writing 2 wkbPoint objects
+[1] 2
+projected points
+Object initially classed as: wkbPoint
+Writing 141 wkbPoint objects
+[1] 3
+projected points
+Object initially classed as: wkbPoint
+Writing 378 wkbPoint objects
+[1] 4
+projected points
+Object initially classed as: wkbPoint
+Writing 645 wkbPoint objects
+[1] 5
+projected points
+Object initially classed as: wkbPoint
+Writing 915 wkbPoint objects
+[1] 6
+projected points
+Object initially classed as: wkbPoint
+Writing 1159 wkbPoint objects
+[1] 7
+projected points
+Object initially classed as: wkbPoint
+Writing 1341 wkbPoint objects
+[1] 8
+projected points
+Object initially classed as: wkbPoint
+Writing 1567 wkbPoint objects
+[1] 9
+projected points
+Object initially classed as: wkbPoint
+Writing 1845 wkbPoint objects
+[1] 10
+projected points
+Object initially classed as: wkbPoint
+Writing 2187 wkbPoint objects
+[1] 11
+projected points
+Object initially classed as: wkbPoint
+Writing 2536 wkbPoint objects
+[1] 12
+projected points
+Object initially classed as: wkbPoint
+Writing 2825 wkbPoint objects
+[1] 13
+projected points
+Object initially classed as: wkbPoint
+Writing 3069 wkbPoint objects
+[1] 14
+projected points
+Object initially classed as: wkbPoint
+Writing 3201 wkbPoint objects
+[1] 15
+projected points
+Object initially classed as: wkbPoint
+Writing 3219 wkbPoint objects
+[1] 16
+[1] 17
+[1] 18
+[1] 19
+There were 50 or more warnings (use warnings() to see the first 50)

@@ -1,0 +1,40 @@
+Linking to GEOS 3.8.1, GDAL 3.0.4, PROJ 6.1.0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'seriation':
+  method         from 
+  reorder.hclust gclus
+
+Attaching package: ‘raster’
+
+The following object is masked from ‘package:dplyr’:
+
+    select
+
+rgdal: version: 1.4-8, (SVN revision 845)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 3.0.4, released 2020/01/28
+ Path to GDAL shared files: 
+ GDAL binary built with GEOS: FALSE 
+ Loaded PROJ.4 runtime: Rel. 6.1.0, May 15th, 2019, [PJ_VERSION: 610]
+ Path to PROJ.4 shared files: (autodetected)
+ Linking to sp version: 1.4-1 
+[1] "distance threshold: 1m"
+[1] "file1: /projects/above_gedi/share/lidar/LVIS/ABoVE_2017/ABLVIS2_001/0_orig/LVIS2_ABoVE2017_0715_R1803_067867.TXT"
+[1] "file2: /projects/above_gedi/users/lpuckett/Hadweenzic_River/LVISF2_ABoVE_2019/0_orig/LVISF2_ABoVE2019_0722_R2003_070689.TXT"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "overlap extentextent(NA, NA, NA, NA)"
+Error in seq.default(from = lat1, to = lat2, length.out = arrayLength) : 
+  'from' must be a finite number
+Calls: seq -> seq.default
+Execution halted

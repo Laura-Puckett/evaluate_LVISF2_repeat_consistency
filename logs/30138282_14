@@ -1,0 +1,107 @@
+Linking to GEOS 3.8.1, GDAL 3.0.4, PROJ 6.1.0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Registered S3 method overwritten by 'seriation':
+  method         from 
+  reorder.hclust gclus
+
+Attaching package: ‘raster’
+
+The following object is masked from ‘package:dplyr’:
+
+    select
+
+rgdal: version: 1.4-8, (SVN revision 845)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 3.0.4, released 2020/01/28
+ Path to GDAL shared files: 
+ GDAL binary built with GEOS: FALSE 
+ Loaded PROJ.4 runtime: Rel. 6.1.0, May 15th, 2019, [PJ_VERSION: 610]
+ Path to PROJ.4 shared files: (autodetected)
+ Linking to sp version: 1.4-1 
+[1] "distance threshold: 1m"
+[1] "file1: /projects/above_gedi/share/lidar/LVIS/ABoVE_2017/ABLVIS2_001/0_orig/LVIS2_ABoVE2017_0715_R1803_072940.TXT"
+[1] "file2: /projects/above_gedi/users/lpuckett/Hadweenzic_River/LVISF2_ABoVE_2019/0_orig/LVISF2_ABoVE2019_0722_R2003_070600.TXT"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "LVIS crs: +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+[1] "overlap extentextent(527546.181558573, 535591.762003984, 7379159.96841619, 7388817.61848118)"
+[1] 1
+projected points
+Object initially classed as: wkbPoint
+Writing 92 wkbPoint objects
+[1] 2
+projected points
+Object initially classed as: wkbPoint
+Writing 302 wkbPoint objects
+[1] 3
+projected points
+Object initially classed as: wkbPoint
+Writing 614 wkbPoint objects
+[1] 4
+projected points
+Object initially classed as: wkbPoint
+Writing 929 wkbPoint objects
+[1] 5
+projected points
+Object initially classed as: wkbPoint
+Writing 1232 wkbPoint objects
+[1] 6
+projected points
+Object initially classed as: wkbPoint
+Writing 1559 wkbPoint objects
+[1] 7
+projected points
+Object initially classed as: wkbPoint
+Writing 1918 wkbPoint objects
+[1] 8
+projected points
+Object initially classed as: wkbPoint
+Writing 2230 wkbPoint objects
+[1] 9
+projected points
+Object initially classed as: wkbPoint
+Writing 2549 wkbPoint objects
+[1] 10
+projected points
+Object initially classed as: wkbPoint
+Writing 2935 wkbPoint objects
+[1] 11
+projected points
+Object initially classed as: wkbPoint
+Writing 3328 wkbPoint objects
+[1] 12
+projected points
+Object initially classed as: wkbPoint
+Writing 3720 wkbPoint objects
+[1] 13
+projected points
+Object initially classed as: wkbPoint
+Writing 4095 wkbPoint objects
+[1] 14
+projected points
+Object initially classed as: wkbPoint
+Writing 4431 wkbPoint objects
+[1] 15
+projected points
+Object initially classed as: wkbPoint
+Writing 4795 wkbPoint objects
+[1] 16
+projected points
+Object initially classed as: wkbPoint
+Writing 5226 wkbPoint objects
+[1] 17
+projected points
+Object initially classed as: wkbPoint
+Writing 5630 wkbPoint objects
+[1] 18
+projected points
+slurmstepd: error: *** JOB 30138282 ON cn7 CANCELLED AT 2020-05-21T10:16:15 DUE TO TIME LIMIT ***
